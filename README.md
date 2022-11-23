@@ -1,9 +1,23 @@
 # Checklists-Comands-etc
 
 
-## Acervo de checklists, comandos, atalhos e etc para proporcionar maior agilidade na produção ou para consultas futuras.
+## Acervo de checklists, comandos e etc para consultas.
 
-- [x] Checklist - Redux com componentes de Class.
-- [x] Checklist - ContexAPI para componentes de class e funcionais.
-- [x] Comandos - Docker.
 
+- **Backend**
+  - **MongoDB**
+    - [MongoDB - Aggregration]()
+  - **Sequelize**
+    - [Sequelize - Setup]()
+    - [Sequelize - commands]()
+  - **Node.js**
+    - [NPM - Comandos]()
+  - **MySQL**
+    - [MySQL - Comandos]()  
+  - **Docker**
+    - [Docker - Comandos]()
+- **Frontend**
+  - **ContextAPI**
+    - [ContextAPI - Setup]()
+  - **Redux**
+    - [Redux com classe - Setup]()
