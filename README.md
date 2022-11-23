@@ -6,18 +6,18 @@
 
 - **Backend**
   - **MongoDB**
-    - [MongoDB - Aggregration]()
+    - [MongoDB - Aggregration](Back-End/mongodb/mongodb_aggregation/README.md)
   - **Sequelize**
-    - [Sequelize - Setup]()
-    - [Sequelize - commands]()
+    - [Sequelize - checklist Setup](Back-End/sequelize/setup/README.md)
+    - [Sequelize - Comandos](Back-End/sequelize/queries/README.md)
   - **Node.js**
-    - [NPM - Comandos]()
+    - [NPM - Comandos](Back-End/nodejs/npm/README.md)
   - **MySQL**
-    - [MySQL - Comandos]()  
+    - [MySQL - Comandos](Back-End/mysql/README.md)  
   - **Docker**
-    - [Docker - Comandos]()
+    - [Docker - Comandos](Back-End/Docker/README.md)
 - **Frontend**
   - **ContextAPI**
-    - [ContextAPI - Setup]()
+    - [ContextAPI - checklist Setup](Front-End/ContextAPI/README.md)
   - **Redux**
-    - [Redux com classe - Setup]()
+    - [Redux com classe - checklist Setup](Front-End/Redux/Redux-Class/README.md)
