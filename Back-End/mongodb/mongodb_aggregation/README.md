@@ -38,6 +38,7 @@ No MacOS
 brew services start mongodb-community
 ```
 **Verifique se o MongoDB foi iniciado com sucesso**
+
 No linux
 ```bash
 sudo service mongod status
