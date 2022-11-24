@@ -4,6 +4,7 @@
 
 - [MongoDB Aggregation Cheat Sheet](#mongodb-aggregation-cheat-sheet)
 - [Sumário](#sumário)
+- [Comandos Básicos](#Comandos Básicos)
 - [Operadores](#operadores)
   - [Operadores Aggregation](#operadores-aggregation)
     - [$match](#match)
@@ -24,6 +25,50 @@
     - [$divide](#divide)
 
 ---
+# Comandos Básicos
+**Iniciando o MongoDB**
+
+No linux
+```bash
+sudo service mongod start
+```
+
+No MacOS
+```bash
+brew services start mongodb-community
+```
+**Verifique se o MongoDB foi iniciado com sucesso**
+No linux
+```bash
+sudo service mongod status
+```
+
+No MacOS
+```bash
+brew services list | grep mongodb-community
+```
+**Parando a instância**
+
+No linux
+```bash
+sudo service mongod stop
+```
+
+No MacOS
+```bash
+brew services stop mongodb-community
+```
+**Reiniciando a instância**
+
+No linux
+```bash
+sudo service mongod restart
+```
+
+No MacOS
+```bash
+brew services restart mongodb-community
+```
 
 # Operadores
 
