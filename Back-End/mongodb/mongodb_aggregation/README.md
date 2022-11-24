@@ -25,6 +25,8 @@
     - [$divide](#divide)
 
 ---
+# Instalação 
+ - [MongoDB Community Edition](https://www.mongodb.com/docs/manual/administration/install-community/)
 # Comandos Básicos
 **Iniciando o MongoDB**
 
